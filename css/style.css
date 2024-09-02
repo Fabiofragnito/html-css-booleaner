@@ -24,7 +24,42 @@ header{
 
 #article{
     font-size: 25px;
-    padding-left: 50px;
-    
-    
+    padding-left: 50px;   
 }
+
+h1{
+    width: 1200px;
+    margin: auto;
+    font-size: 60px;
+    margin-top: 30px;
+}
+
+.sottotitolo{
+    margin: auto;
+    width: 1200px;
+    color: gray;
+    font-weight:30px;
+}
+
+.sottotitolo, span{
+    font-size: 25px;
+}
+
+#text-coloured{ 
+    color: rgb(69, 197, 239);
+}
+
+.prima-pic {
+    width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+   
+.seconda-pic{
+    width: 1200px;
+    margin: auto;
+    margin-top: 5px;
+
+}
+
