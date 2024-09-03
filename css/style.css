@@ -70,3 +70,73 @@ h1{
     background-color: yellow;
 }
 
+.first-raw{
+    
+    color: white;
+    background-color: rgb(7, 143, 188);
+    margin-top: 20px;
+    width: 1200px;
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+
+
+.prima-cella{
+    float: left;
+    width: 400px;
+    background-color: rgb(7, 143, 188);
+   
+}
+
+.seconda-cella{
+     float: left;
+     width: 400px;
+     background-color: rgb(7, 143, 188);}
+    
+
+.terza-cella{
+        float: left;
+        width: 400px;
+        background-color: rgb(7, 143, 188);
+        }
+
+.second-raw, .fourth-raw{
+    color: black;
+   height: 150px;
+    font-size: 25px;
+    background-color: rgb(136, 210, 228);
+    
+}
+
+.quarta-cella{
+    float: left;
+        width: 400px;
+        margin-top: 40px;
+
+}
+
+.quinta-cella{
+    float: left;
+        width: 400px;
+        margin-top: 40px;
+}
+
+.sesta-cella{
+    float: left;
+        width: 400px;
+
+}
+
+.third-raw{
+
+        color: black;
+       height: 120px;
+        font-size: 25px;
+        background-color: white;
+        
+}
+
+.fourth-raw{
+    height: 120px;;
+}
