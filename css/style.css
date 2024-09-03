@@ -140,3 +140,38 @@ h1{
 .fourth-raw{
     height: 120px;;
 }
+
+
+.title-bottom-pics{
+    color: gray;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+#bottom-pics1{
+    background-image: url(../img/monitor.jpg);
+    width: 350px;
+    background-size: contain;
+    height: 200px;
+    margin-top: 20px;
+}
+
+#bottom-pics1 h2{
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+}
+
+#bottom-pics2{
+    background-image: url(../img/graph.jpg);
+    width: 350px;
+    background-size: contain;
+    height: 200px;
+    margin-top: 20px;
+}
+
+#bottom-pics2 h2{
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+}
